@@ -1,0 +1,6 @@
+#
+.myenv/
+myenv/
+
+#Secrets
+.env
