@@ -2,5 +2,6 @@
 .myenv/
 myenv/
 
+_pychache_
 #Secrets
 .env
